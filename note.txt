@@ -1,0 +1,20 @@
+ Color combination
+
+       #000000 Black color
+       #21B573 Green color
+       #FD511A Orange
+
+ Font-Family
+
+       Poppins 400, 700, 500
+       Roboto 400
+
+
+
+
+
+
+Class{
+ font-family: ;
+ font-weight: ;
+}
